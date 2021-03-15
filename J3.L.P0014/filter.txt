@@ -1,0 +1,16 @@
+Login-LoginServlet
+LogOut-LogOutServlet
+SignUp-SignUpServlet
+CancelSignUp-login.jsp
+DisplayQuestion-DisplayQuestionServlet
+CancelQuestionAction-DisplayQuestionServlet
+SearchQuestion-SearchQuestionServlet
+CreatePage-create.jsp
+CreateQuestion-CreateQuestionServlet
+UpdatePage-update.jsp
+UpdateQuestion-UpdateQuestionServlet
+DeleteQuestion-DeleteQuestionServlet
+RegistrationPage-registration.jsp
+DisplayQuizList-DisplayQuizServlet
+TakeAQuiz-TakeAQuizSevlet
+ChangeQuestionInQuiz-ChangeQuestionInQuizServlet

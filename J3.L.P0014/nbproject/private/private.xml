@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/minhnln/DAO/QuestionDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>114</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/create.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Servlet/DisplayQuestionServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/DAO/QuestionDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/search.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/doquiz.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/DTO/MyRequestListener.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/searchresult.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/DAO/AnswerDAO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Servlet/CreateQuestionServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/db/db.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Servlet/DisplayQuizServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/registration.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/DTO/SubjectDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/displayquiz.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Filter/FilterDispatcher.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Servlet/UpdateQuestionServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/login.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/Servlet/ChangeQuestionInQuizServlet.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/main.jsp</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/src/java/minhnln/DTO/AnswerDTO.java</file>
+            <file>file:/C:/Users/Asus/Desktop/J3.L.P0014/web/error.jsp</file>
+        </group>
+    </open-files>
+</project-private>
